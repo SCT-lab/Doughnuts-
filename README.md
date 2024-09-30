@@ -8,7 +8,7 @@ Below are some examples of renders created using the blender file.
 
 <p align="center">
   <img src="https://github.com/SCT-lab/Doughnuts-/blob/main/Images/Render2.png" alt="Doughnuts Example1" width="400" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/SCT-lab/Doughnuts-/blob/main/Images/Render3.png" alt="Doughnuts Example2" width="345" style="display: inline-block;">
+  <img src="https://github.com/SCT-lab/Doughnuts-/blob/main/Images/Render3.png" alt="Doughnuts Example2" width="400" style="display: inline-block;">
 </p>
 
 
