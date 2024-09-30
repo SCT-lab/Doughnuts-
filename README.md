@@ -1,7 +1,9 @@
 # Cool 3D Doughnuts
 
+
 ![DigiFungi Visual Example](https://github.com/SCT-lab/Doughnuts-/blob/main/Blender%20Files/Images/Donut%20First%20render.png)
 
+This Blender project file contains a detailed 3D model of a realistic doughnut, complete with customizable textures, frosting, and sprinkles. Ideal for beginners and artists, the file showcases key modeling, texturing, and lighting techniques. Perfect for creating tasty visuals or learning 3D design basics.
 
 ## Examples
 Below are some examples of renders created using the blender file.
