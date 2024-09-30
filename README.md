@@ -6,7 +6,7 @@
 This Blender project file contains a detailed 3D model of a realistic doughnut, complete with customizable textures, frosting, and sprinkles. Ideal for beginners and artists, the file showcases key modeling, texturing, and lighting techniques. Perfect for creating tasty visuals or learning 3D design basics.
 
 ## Examples
-Below are some examples of renders created using the blender file.
+Below are some examples of renders created using the blender file. Outside the window, a doughnut rain animation plays falling doughnuts on a loop. 
 
 <p align="center">
   <img src="https://github.com/SCT-lab/Doughnuts-/blob/main/Images/Render2.png" alt="Doughnuts Example1" width="400" style="display: inline-block; margin-right: 10px;">
@@ -16,7 +16,7 @@ Below are some examples of renders created using the blender file.
 
 ## Contributing
 
-Please open an issue or submit a pull request if you find any bugs or have suggestions for improvements.
+Please open an issue or submit a pull request if you find any bugs or have suggestions for improvements. 
 
 ## License
 
